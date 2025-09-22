@@ -1,4 +1,4 @@
-#### Hi there, I'm Amir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Amir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **Software Engineer | Frontend Specialist | AI Explorer**
 
@@ -13,8 +13,6 @@
 ⚡ I also explore AI research and backend integrations, bringing together performance, usability, and innovation.
 
 🚀 I like solving complex problems, experimenting with new technologies, and sharing what I learn along the way.
-
----
 
 ## 🛠️ My Skills
 
