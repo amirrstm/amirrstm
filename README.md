@@ -1,6 +1,20 @@
-## 🛠️ My Skills
+# Hi there, I'm Amir 👋
+
+**Software Engineer | Frontend Specialist | AI Explorer**
 
 ---
+
+👋 **Hi, I’m Amir** — a Software Engineer passionate about building clean, scalable, and user-friendly applications.
+
+💻 I specialize in frontend development with **React**, **Next.js**, and **TypeScript**, and enjoy working on design systems, component libraries, and modern web tooling.
+
+⚡ I also explore AI research and backend integrations, bringing together performance, usability, and innovation.
+
+🚀 I like solving complex problems, experimenting with new technologies, and sharing what I learn along the way.
+
+---
+
+## 🛠️ My Skills
 
 ### Programming languages:
 
@@ -8,14 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
 
 ### Frontend development:
 
@@ -25,7 +32,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
@@ -39,16 +46,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
-### Services & Frameworks:
-
-&emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 
 ### Databases:
 
@@ -62,19 +62,33 @@
 ### SRE & DevOps:
 
 &emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?&logo=Docker)
+![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=Traefik)
 
-&emsp;
+---
 
-### 📈 Github Stats
+## 🌱 Featured Projects
+
+- [ain-nest-js](https://github.com/amirrstm/ain-nest-js)
+- [open-rise](https://github.com/amirrstm/open-rise)
+- [chat-platform](https://github.com/amirrstm/chat-platform)
+- [arshai (contributor)](https://github.com/felesh-ai/arshai)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-rstm/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/amir_rostmi)
+
+---
+
+## 📈 Github Stats
 
 #### Here's some of my statistics and work-load analysis
 
