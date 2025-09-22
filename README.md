@@ -74,8 +74,9 @@
 
 &emsp;
 
-## 📈 My GitHub Stats and Activity
+### 📈 Github Stats
 
-### 💻 Profile Stats
+#### Here's some of my statistics and work-load analysis
 
-<img alt="Amirs's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=amirrstm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Amir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrstm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=amirrstm&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrstm&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
