@@ -1,10 +1,20 @@
-## Hi there, I'm Amir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave" />
+</p>
+<h2 align="center">Hi there, I'm Amir</h2>
+<p align="center"><b>Software Engineer | Frontend Specialist | AI Explorer</b></p>
 
-**Software Engineer | Frontend Specialist | AI Explorer**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-rstm/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/amir_rostmi)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/amir_rostamy)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amir-rstm/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/amir_rostmi">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://t.me/amir_rostamy">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 👋 Software Engineer passionate about building clean, scalable, and user-friendly applications.
 
