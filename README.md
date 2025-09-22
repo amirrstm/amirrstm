@@ -1,10 +1,12 @@
-# Hi there, I'm Amir 👋
+#### Hi there, I'm Amir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **Software Engineer | Frontend Specialist | AI Explorer**
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-rstm/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/amir_rostmi)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/amir_rostamy)
 
-👋 **Hi, I’m Amir** — a Software Engineer passionate about building clean, scalable, and user-friendly applications.
+👋 Software Engineer passionate about building clean, scalable, and user-friendly applications.
 
 💻 I specialize in frontend development with **React**, **Next.js**, and **TypeScript**, and enjoy working on design systems, component libraries, and modern web tooling.
 
@@ -69,22 +71,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?&logo=Docker)
 ![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=Traefik)
-
----
-
-## 🌱 Featured Projects
-
-- [ain-nest-js](https://github.com/amirrstm/ain-nest-js)
-- [open-rise](https://github.com/amirrstm/open-rise)
-- [chat-platform](https://github.com/amirrstm/chat-platform)
-- [arshai (contributor)](https://github.com/felesh-ai/arshai)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-rstm/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/amir_rostmi)
 
 ---
 
