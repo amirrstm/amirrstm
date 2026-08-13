@@ -105,14 +105,3 @@
   ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
   ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
   ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-
-  ---
-
-  ## 📈 Github Stats
-
-  #### Here's some of my statistics and work-load analysis
-
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=amirrstm&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&
-  count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrstm&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_c
-  olor=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
