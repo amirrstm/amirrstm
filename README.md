@@ -1,89 +1,118 @@
 <h1 align="center">Hi there, I'm Amir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave" /></h1>
-<p align="center"><b>Software Engineer | Frontend Specialist | AI Explorer</b></p>
+  <p align="center"><b>Full-Stack Platform Engineer | Founding Engineer @ Felesh | AI Platforms</b></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amir-rstm/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/amir_rostmi">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://t.me/amir_rostamy">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/amir-rstm/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/amir_rostmi">
+      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://t.me/amir_rostamy">
+      <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </p>
 
-👋 Software Engineer passionate about building clean, scalable, and user-friendly applications.
+  🚀 Founding engineer of **Felesh** — a multi-tenant, on-premise **agentic AI platform** taken from an empty repository to production in 9 months: 22
+  backend services, 5 frontend apps, a self-hosted Kubernetes cluster, and 22 bare-metal machines.
 
-💻 I specialize in frontend development with **React**, **Next.js**, and **TypeScript**, and enjoy working on design systems, component libraries, and modern web tooling.
+  ⚙️ I own the **full vertical**: React 19 product UI → Python/FastAPI services → Kafka event contracts → Kubernetes → the metal underneath. 9+ years
+  shipping, the last 7 leading front-end teams in Germany, the US, and Iran.
 
-⚡ I also explore AI research and backend integrations, bringing together performance, usability, and innovation.
+  🤖 Day to day I work on **LLM gateways, agentic services, and RAG** — provider routing, quota enforcement, per-request cost attribution, vector search,
+  semantic caching.
 
-🚀 I like solving complex problems, experimenting with new technologies, and sharing what I learn along the way.
+  🏗️ I care about the boring parts that make platforms survive: multi-tenant isolation, transactional outbox over Kafka, API contracts, trunk-based
+  releases, and runbooks people actually read.
 
-&emsp;
+  > ℹ️ Most of my work lives in a **private GitLab** (Felesh's on-prem platform), so this profile shows only a slice of it.
 
-## 🛠️ My Skills
+  &emsp;
 
-### Programming languages:
+  ## 🛠️ My Skills
 
-&emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ### Programming languages:
 
-### Frontend development:
+  &emsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
 
-&emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+  ### Frontend development:
 
-### Misc tools:
+  &emsp;
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+  ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
+  ![TanStack](https://img.shields.io/badge/-TanStack-000?&logo=reactquery)
+  ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
+  ![Radix UI](https://img.shields.io/badge/-Radix%20UI-000?&logo=radixui)
+  ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+  ![Turborepo](https://img.shields.io/badge/-Turborepo-000?&logo=Turborepo)
+  ![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=Storybook)
 
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+  ### Backend & APIs:
 
-### Databases:
+  &emsp;
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=SQLAlchemy)
+  ![Pydantic](https://img.shields.io/badge/-Pydantic-000?&logo=Pydantic)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
+  ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)
+  ![Temporal](https://img.shields.io/badge/-Temporal-000?&logo=temporal)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 
-&emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+  ### AI & LLM:
 
-### SRE & DevOps:
+  &emsp;
+  ![LangChain](https://img.shields.io/badge/-LLM%20Gateway-000?&logo=openai)
+  ![RAG](https://img.shields.io/badge/-RAG%20%26%20Vector%20Search-000?&logo=pinecone)
+  ![Agentic Systems](https://img.shields.io/badge/-Agentic%20Systems-000?&logo=probot)
 
-&emsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?&logo=Docker)
-![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=Traefik)
+  ### Databases:
 
----
+  &emsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+  ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-## 📈 Github Stats
+  ### SRE & DevOps:
 
-#### Here's some of my statistics and work-load analysis
+  &emsp;
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+  ![Helm](https://img.shields.io/badge/-Helm-000?&logo=Helm)
+  ![Argo CD](https://img.shields.io/badge/-Argo%20CD-000?&logo=argo)
+  ![Traefik](https://img.shields.io/badge/-Traefik-000?&logo=traefikproxy)
+  ![Vault](https://img.shields.io/badge/-Vault-000?&logo=Vault)
+  ![Keycloak](https://img.shields.io/badge/-Keycloak-000?&logo=Keycloak)
+  ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000?&logo=opentelemetry)
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+  ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+  ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=amirrstm&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrstm&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  ### Misc tools:
+
+  &emsp;
+  ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+  ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-000?&logo=GitLab)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions)
+  ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+  ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+  ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+
+  ---
+
+  ## 📈 Github Stats
+
+  #### Here's some of my statistics and work-load analysis
+
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=amirrstm&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&
+  count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrstm&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_c
+  olor=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
